@@ -1,4 +1,6 @@
-![image8](images/twittersentiments.jpeg)
+
+![image7](images/twittersentiments.jpeg)
+
 # NLP Model to Analyze Twitter Sentiment 
 
 Objective of this project is to perform supervised sentiment analysis on Twitter tweets about Google and <br>Apple products using Natural Language Processing(NLP) model, so the model can rate the sentiment of <br>a Tweet based on its content.
@@ -65,7 +67,7 @@ Using an Embedding Layer inside of a deep neural network to compute the word emb
 
 ![image6](images/Accuracy.png)
 
-![image7](images/lossfunction.png)
+
 
 # Conclusion
 
