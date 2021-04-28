@@ -1,5 +1,5 @@
-| ![image7](images/twittersentiments.jpeg) |
-|  :--:  |
+
+<img src="images/twittersentiments.jpeg" alt="Image" width="800" height="600" style="display: block; margin: 0 auto" />
 
 # NLP Model to Analyze Twitter Sentiment 
 
