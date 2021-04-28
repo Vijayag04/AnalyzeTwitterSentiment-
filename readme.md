@@ -1,4 +1,4 @@
-<center>![image7](images/twittersentiments.jpeg)</center>
+<span style="display:block;text-align:center">![image7](images/twittersentiments.jpeg)</span>
 
 # NLP Model to Analyze Twitter Sentiment 
 
