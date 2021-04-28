@@ -58,29 +58,7 @@ Vectorized the tweets using **Tfidf** Vectorization (Term Frequency Inverse Docu
 
 **Deep NLP with Word Embedding**
 
-Using an Embedding Layer inside of a deep neural network to compute the word embedding vectors <br>on the tweets in the Sequential model.<br>Model Summary :
-
-Model: "sequential"
-_________________________________________________________________
-Layer (type)                 Output Shape              Param #   
-=================================================================
-embedding (Embedding)        (None, None, 128)         2560000   
-_________________________________________________________________
-lstm (LSTM)                  (None, None, 25)          15400     
-_________________________________________________________________
-global_max_pooling1d (Global (None, 25)                0         
-_________________________________________________________________
-dropout (Dropout)            (None, 25)                0         
-_________________________________________________________________
-dense (Dense)                (None, 50)                1300      
-_________________________________________________________________
-dropout_1 (Dropout)          (None, 50)                0         
-_________________________________________________________________
-dense_1 (Dense)              (None, 3)                 153       
-=================================================================
-Total params: 2,576,853
-Trainable params: 2,576,853
-Non-trainable params: 0
+Using an Embedding Layer inside of a deep neural network to compute the word embedding vectors <br>on the tweets in the Sequential model.<br>
 **loss Function and Accuracy of this model<br>**
 **Train score:** 0.37, 87%<br>
 **Test Score:** 0.97, 66%
