@@ -89,7 +89,6 @@ Non-trainable params: 0
 
 ![image6](images/Accuracy.png)
 
-![image7](images/lossfunction.png)
 
 # Conclusion
 
