@@ -1,5 +1,5 @@
 
-<img src="images/twittersentiments.jpeg" alt="Image" width="600" height="600" style="display: block; margin: 0 auto" />
+<img src="images/twittersentiments.jpeg" alt="Image" width="700" height="600" style="display: block; margin: 0 auto" />
 
 # NLP Model to Analyze Twitter Sentiment 
 
