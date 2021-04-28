@@ -96,7 +96,7 @@ Non-trainable params: 0
 Performed different models on the data, such as Logistic Regression, Decision Tree, Random Forest, Random Forest<br> with GridSearch and Naive Bayes classifiers, all models got 60% or less than 70% of accuracy and F1-Score of training<br> set is nearly 20% more than the test set which seems overfitting.
 Built a deep neural network with<br> Word Embeddings layers any Accuracy of Train set is 87% and loss function is 0.36 and Accuracy of test set <br>is 66% and loss function is 0.97, the difference of loss function is more than twice, so this model is also overfitted.
 
-
+Blog Post :https://gvijayared.medium.com/twitter-sentiment-analysis-using-machine-learning-f0580eb9badb
 ```python
 
 ```
